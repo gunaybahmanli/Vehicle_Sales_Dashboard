@@ -7,6 +7,10 @@ The Vehicle Sales Dashboard is an interactive and visually appealing Power BI pr
 ![image](https://github.com/user-attachments/assets/3b0bc0af-ba4d-42ca-80ab-c246b4f993fc)
 
 
+![image](https://github.com/user-attachments/assets/dce42e9c-4258-42e6-8c4c-25112e0ac46a)
+
+
+
 ## Dataset Overview
 
 The dataset used for this project includes sales data for different vehicle types. Key columns include:
