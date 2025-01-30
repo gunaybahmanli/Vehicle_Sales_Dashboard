@@ -4,6 +4,9 @@
 
 The Vehicle Sales Dashboard is an interactive and visually appealing Power BI project designed to analyze and showcase sales information across various vehicle types. This dashboard provides a comprehensive overview of vehicle sales performance, with specific pages dedicated to different vehicle categories such as Motorcycles, Classic Cars, Trucks and Buses, Vintage Cars, Planes, Ships, and Trains. The project demonstrates advanced Power BI features like data transformations, DAX calculations, and interactive navigation.
 
+![image](https://github.com/user-attachments/assets/3b0bc0af-ba4d-42ca-80ab-c246b4f993fc)
+
+
 ## Dataset Overview
 
 The dataset used for this project includes sales data for different vehicle types. Key columns include:
